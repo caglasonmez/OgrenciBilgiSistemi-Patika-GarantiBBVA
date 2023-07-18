@@ -1,0 +1,2 @@
+# OgrenciBilgiSistemi-Patika-GarantiBBVA
+OgrenciBilgiSistemi-Patika-GarantiBBVA
